@@ -1,0 +1,8 @@
+Unity 6000.3.7f1
+Scene: Assets/Scenes/GitPractice.unity
+Platform scale: (6.00, 1.00, 6.00)
+Platform collider bounds: (6.00, 1.00, 6.00)
+Sphere present: True
+Sphere bottom: 0,5
+Platform top: 0,5
+Image: actual camera render, not an Editor UI screenshot.
